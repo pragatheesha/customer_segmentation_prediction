@@ -98,5 +98,3 @@ Rather than treating all customers the same, segmentation enables data-driven de
 ## 6. Conclusion  
 
 The clustering analysis successfully identified three distinct customer segments with different behavioral and churn characteristics. These profiles provide valuable insights for designing targeted retention strategies and improving overall customer lifetime value. Segment-based modeling and recommendations can significantly enhance business performance and reduce customer churn.
-
----
